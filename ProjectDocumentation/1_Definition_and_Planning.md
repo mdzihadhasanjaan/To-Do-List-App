@@ -48,7 +48,7 @@
 - Add Task form screen.
 - Task view/edit screen.
 
-*(Screenshots or links to Figma/Balsamiq designs can be added here)*
+*(Screenshots or links to Figma/Balsamiq designs will be added here later)*
 
 ---
 
