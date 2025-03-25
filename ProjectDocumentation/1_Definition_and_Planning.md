@@ -47,8 +47,11 @@
 - Home screen with task list and "Add Task" button.
 - Add Task form screen.
 - Task view/edit screen.
+  
 
-*(Screenshots or links to Figma/Balsamiq designs will be added here later)*
+![image](https://github.com/user-attachments/assets/5b91d23e-30c6-4e3d-9886-a1971a9b11b6)
+![image](https://github.com/user-attachments/assets/6ba6f261-3c27-4e36-8851-3cc4507de3c1)
+![image](https://github.com/user-attachments/assets/70310edc-4c15-427c-b4f1-d7498579d9db)
 
 ---
 
