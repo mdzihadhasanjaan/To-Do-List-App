@@ -126,6 +126,8 @@ This phase focuses on building a fully functional full-stack Task Management web
 
 ---
 
+## 🔗 Backend and frontend github repo: https://github.com/mdzihadhasanjaan/taskmaster-frontend
+
 ## 👨‍💻 Author
 
 Md Zihad Hasan Jaan, Boutaghane, Mouadh
