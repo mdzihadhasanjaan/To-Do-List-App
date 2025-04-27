@@ -13,3 +13,4 @@
 10.4.2025    | 2.0        | Planning Phase 2: Task UI + Integration  | Task form, list rendering, and API integration with fetch
 12.4.2025    | 1.0        | Planning Phase 2: Deployment             | Deployed frontend and backend to Render with env configs
 13.4.2025    | 2.0        | Planning Phase 2: Final Testing & UI     | Fixed bugs, UI polish, tested full flow end-to-end
+25.4.2025 | 1.5 | Project Presentation  
